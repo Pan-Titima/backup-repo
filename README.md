@@ -6,3 +6,7 @@
 
 ฐิติมา เกษมศรีธนาวัฒน์
 email: titima.kp@gmail.com
+
+step 1: npm install
+step 2: npm run test-1 สำหรับ question-1
+        npm run test-2 สำหรับ question-2

@@ -1,11 +1,12 @@
 {
-  "name": "js-skill-checkpoint-minor",
+  "name": "front-end-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test-1": "node question-1.js",
+    "test-2": "node question-2.js"
   },
   "keywords": [],
   "author": "",
